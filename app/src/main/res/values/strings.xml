@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">弧垂测绘</string>
+    <string name="sag_cal">档端法计算</string>
+    <string name="sag_cal_out">档外法计算</string>
+    <string name="sag_cal_title_lable">档端法弧垂计算</string>
+    <string name="sag_cal_result">弧垂检测——档端角度法</string>
+    <string name="crag_cal_span">档距(L)</string>
+    <string name="crag_cal_nominal_height">呼高(m)</string>
+    <string name="crag_cal_instrument_height">仪高(m)</string>
+    <string name="crag_cal_string_length">串长(m)</string>
+    <string name="crag_cal_value_of_a">a值</string>
+    <string name="crag_cal_value_of_b">b值</string>
+    <string name="crag_cal_value_of_sag">弧垂值(f)</string>
+    <string name="crag_cal_hang_angle">挂点角度</string>
+    <string name="crag_cal_observation_angle">观测角度</string>
+    <string name="crag_cal_get_result">计  算</string>
+    <string name="crag_cal_get_angle">弧垂观测——角度法</string>
+    <string name="input_num_character">0123456789.</string>
+    <string name="crag_cal_angle">角度</string>
+    <string name="number_default">0</string>
+    <string name="crag_cal_out_L">观测档距L</string>
+    <string name="crag_cal_out_L_other">观测档距L\'</string>
+    <string name="crag_cal_out_f">设计弧f</string>
+    <string name="crag_cal_out_F">验算F</string>
+    <string name="crag_cal_out_angle">实测挂点角度</string>
+    <string name="crag_cal_out_a1">近挂点a1</string>
+    <string name="crag_cal_out_a2">近挂点a2</string>
+    <string name="crag_cal_out_a3">计算出的观测角度a3</string>
+    <string name="crag_cal_out_title">档外法看驰度m</string>
+    <string name="about">1.软件制作只为方便现场施工人员计算，所得结果只作参考使用\n
+                         2.制作：王飞</string>
+
+</resources>
